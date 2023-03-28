@@ -1,0 +1,3 @@
+/Users/romangostilo/Desktop/education/hse/caos/sm10/cmake-build-debug/CMakeFiles/sm10.dir
+/Users/romangostilo/Desktop/education/hse/caos/sm10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romangostilo/Desktop/education/hse/caos/sm10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
